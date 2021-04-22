@@ -2,7 +2,7 @@
 A program that solves a polynomial second or lower degree equation
 ---
 To launch:
-python3 computerv.py "[polynomial equasion]"
+python3 computerv.py "[polynomial equation]"
 
 for example:
  - python3 computerv.py "5 * X^0 + 4 * X^1 - 9.3 * X^2 = 1 * X^0"
